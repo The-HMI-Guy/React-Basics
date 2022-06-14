@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+const API_KEY = 'AIzaSyAmvA_sACIFT9v6T1iWnsK6IXyb6XSN4Eo';
+
 // Create a new component. This component should produce
 // some HTML
 // "Fat Arrow" aka => replaces function
